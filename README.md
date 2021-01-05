@@ -8,5 +8,5 @@
 - 4 layers, 35 x 38 mm board
 
 ### PCB images:
-![](https://github.com/ptiszai/ADuCM355_sensor/blob/main/ADuCM355_modul.png)
+![](https://github.com/ptiszai/ADuCM355_sensor/blob/main/ADuCM355_sensor.png)
 
