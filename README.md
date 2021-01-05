@@ -5,7 +5,7 @@
  [link to ADuCM355](https://www.analog.com/en/products/aducm355.html#product-overview)
 - 1 chemical sensor channel.
 - 1 SPI.
-- 4 layers, 35 x 38 mm board
+- 4 layers, 23 x 38 mm board
 
 ### PCB images:
 ![](https://github.com/ptiszai/ADuCM355_sensor/blob/main/ADuCM355_sensor_PCB.png)
